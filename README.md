@@ -76,6 +76,3 @@ The entire landing page is optimized for:
 Using a clean set of media queries for smooth layout adaptation.
 
 ---
-
-## 📂 Folder Structure
-
